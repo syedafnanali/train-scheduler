@@ -1,0 +1,57 @@
+.jumbotron{
+    background-color:rgba(106, 185, 216, 0.842);
+    color: white;
+    border-bottom:5px solid rgb(233, 225, 225);
+    padding-bottom: 0;
+}
+
+.card-header{
+    background-color:rgba(106, 185, 216, 0.842);
+    color: white;
+
+}
+#submitBtn{
+    background:rgba(106, 185, 216, 0.842);
+    border:none;
+    font-size: 17px;
+
+}
+body{
+    background-color: rgba(221, 215, 215, 0.301);
+
+}
+
+.card-header{
+    border: .2px solid black;
+    width: 100%;
+
+}
+.table{
+    border: .1px solid rgb(233, 225, 225);
+    width: 100%;
+    padding: 5px;
+
+}
+#tName{
+    width:98%;
+
+}
+#dest{
+    width:98%;
+
+}
+#fTtime{
+    width:98%;
+}
+#freq{
+    width:98%;
+}
+.form-group{
+    margin-left: 30px;
+}
+.data{
+    border: .1px solid rgb(233, 225, 225);
+    padding: 5px;
+}
+
+
